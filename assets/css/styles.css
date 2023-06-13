@@ -1,4 +1,20 @@
-/*Add your custom styles here*/
-.starting-title {
+table {
+    margin: 10px;
+    border-spacing: 0;
     text-align: center;
+    border: 1px solid gray;
+    font-size: .7em;   
+}
+
+th {
+    color: black;
+    border: 1px solid gray;
+}
+
+td {
+    border: 1px solid gray;
+}
+
+.form-section {
+    margin-bottom: 5px;
 }
